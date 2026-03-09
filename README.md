@@ -37,7 +37,7 @@ The pipeline is built entirely using AWS serverless services.
 - Slack Webhook — Operational alerts and monitoring
 - IAM — Secure access control
 
-![Architecture Diagram](End-to-end data pipeline for FinSight.png)
+![Architecture Diagram](End-to-end data pipeline for FinSight.svg)
 
 ---
 
