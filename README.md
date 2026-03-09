@@ -239,6 +239,8 @@ Failure reason
 
 This provides real-time pipeline monitoring without checking logs.
 
+![Slack Notification Screenshot](https://github.com/AnshumanB08/FinSight-AWS-Data-Engineering-Pipeline/blob/main/Slack%20screenshot.png)
+
 ---
 
 # Key Features
